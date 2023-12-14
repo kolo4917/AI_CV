@@ -1,0 +1,51 @@
+early_terminate:
+  max_iter: 10
+  s: 2
+  type: hyperband
+method: bayes
+metric:
+  goal: maximize
+  name: val_acc
+parameters:
+  batch_size:
+    values:
+    - 4
+    - 6
+    - 7
+    - 8
+    - 9
+    - 10
+    - 11
+    - 12
+  dropout_rate:
+    distribution: uniform
+    max: 0.5
+    min: 0.0
+  learning_rate:
+    distribution: uniform
+    max: 0.01
+    min: 0.0001
+  model_name:
+    values:
+    - resnet50
+    - efficientnet-b0
+    - efficientnet-b4
+  optimizer:
+    values:
+    - adam
+    - sgd
+  scheduler_gamma:
+    distribution: uniform
+    max: 0.9
+    min: 0.1
+  scheduler_step_size:
+    values:
+    - 5
+    - 10
+    - 15
+  weight_decay:
+    distribution: uniform
+    max: 0.001
+    min: 1.0e-05
+program: "\uC2E4\uD5D8\uC6A9_\uBBF8\uC138\uAC01\uC9C8.ipynb"
+seed: 42
