@@ -1,0 +1,112 @@
+Group: 0대 남
+  value_1 -> Average: 0.76, Variance: 0.73, Standard Deviation: 0.85
+  value_2 -> Average: 0.52, Variance: 0.55, Standard Deviation: 0.74
+  value_3 -> Average: 0.94, Variance: 0.97, Standard Deviation: 0.98
+  value_4 -> Average: 0.18, Variance: 0.33, Standard Deviation: 0.57
+  value_5 -> Average: 0.70, Variance: 0.57, Standard Deviation: 0.76
+  value_6 -> Average: 0.73, Variance: 0.74, Standard Deviation: 0.86
+Group: 0대 여
+  value_1 -> Average: 0.85, Variance: 1.51, Standard Deviation: 1.23
+  value_2 -> Average: 0.77, Variance: 0.79, Standard Deviation: 0.89
+  value_3 -> Average: 0.54, Variance: 0.56, Standard Deviation: 0.75
+  value_4 -> Average: 0.00, Variance: 0.00, Standard Deviation: 0.00
+  value_5 -> Average: 0.85, Variance: 0.59, Standard Deviation: 0.77
+  value_6 -> Average: 0.46, Variance: 1.17, Standard Deviation: 1.08
+Group: 10대 남
+  value_1 -> Average: 0.42, Variance: 0.82, Standard Deviation: 0.91
+  value_2 -> Average: 1.42, Variance: 0.89, Standard Deviation: 0.94
+  value_3 -> Average: 0.65, Variance: 0.62, Standard Deviation: 0.78
+  value_4 -> Average: 0.06, Variance: 0.06, Standard Deviation: 0.25
+  value_5 -> Average: 1.13, Variance: 0.69, Standard Deviation: 0.83
+  value_6 -> Average: 0.55, Variance: 0.96, Standard Deviation: 0.98
+Group: 10대 여
+  value_1 -> Average: 0.68, Variance: 0.86, Standard Deviation: 0.93
+  value_2 -> Average: 1.32, Variance: 1.22, Standard Deviation: 1.10
+  value_3 -> Average: 0.57, Variance: 0.39, Standard Deviation: 0.62
+  value_4 -> Average: 0.11, Variance: 0.10, Standard Deviation: 0.31
+  value_5 -> Average: 1.04, Variance: 0.82, Standard Deviation: 0.91
+  value_6 -> Average: 0.36, Variance: 0.37, Standard Deviation: 0.61
+Group: 20대 남
+  value_1 -> Average: 0.51, Variance: 0.85, Standard Deviation: 0.92
+  value_2 -> Average: 1.16, Variance: 0.80, Standard Deviation: 0.89
+  value_3 -> Average: 1.04, Variance: 0.94, Standard Deviation: 0.97
+  value_4 -> Average: 0.17, Variance: 0.36, Standard Deviation: 0.60
+  value_5 -> Average: 1.02, Variance: 0.69, Standard Deviation: 0.83
+  value_6 -> Average: 0.34, Variance: 0.43, Standard Deviation: 0.66
+Group: 20대 여
+  value_1 -> Average: 0.67, Variance: 1.25, Standard Deviation: 1.12
+  value_2 -> Average: 1.16, Variance: 0.82, Standard Deviation: 0.91
+  value_3 -> Average: 0.53, Variance: 0.53, Standard Deviation: 0.73
+  value_4 -> Average: 0.09, Variance: 0.14, Standard Deviation: 0.37
+  value_5 -> Average: 1.36, Variance: 0.84, Standard Deviation: 0.92
+  value_6 -> Average: 0.42, Variance: 0.56, Standard Deviation: 0.75
+Group: 30대 남
+  value_1 -> Average: 0.60, Variance: 0.86, Standard Deviation: 0.93
+  value_2 -> Average: 1.02, Variance: 0.70, Standard Deviation: 0.84
+  value_3 -> Average: 1.11, Variance: 0.94, Standard Deviation: 0.97
+  value_4 -> Average: 0.18, Variance: 0.27, Standard Deviation: 0.52
+  value_5 -> Average: 0.94, Variance: 0.75, Standard Deviation: 0.86
+  value_6 -> Average: 0.37, Variance: 0.57, Standard Deviation: 0.75
+Group: 30대 여
+  value_1 -> Average: 0.73, Variance: 0.94, Standard Deviation: 0.97
+  value_2 -> Average: 0.97, Variance: 0.66, Standard Deviation: 0.81
+  value_3 -> Average: 0.63, Variance: 0.71, Standard Deviation: 0.85
+  value_4 -> Average: 0.13, Variance: 0.18, Standard Deviation: 0.42
+  value_5 -> Average: 0.97, Variance: 0.68, Standard Deviation: 0.83
+  value_6 -> Average: 0.37, Variance: 0.41, Standard Deviation: 0.64
+Group: 40대 남
+  value_1 -> Average: 0.64, Variance: 0.87, Standard Deviation: 0.93
+  value_2 -> Average: 1.03, Variance: 0.86, Standard Deviation: 0.92
+  value_3 -> Average: 1.02, Variance: 1.00, Standard Deviation: 1.00
+  value_4 -> Average: 0.19, Variance: 0.34, Standard Deviation: 0.58
+  value_5 -> Average: 0.89, Variance: 0.73, Standard Deviation: 0.85
+  value_6 -> Average: 0.55, Variance: 0.76, Standard Deviation: 0.87
+Group: 40대 여
+  value_1 -> Average: 0.56, Variance: 0.86, Standard Deviation: 0.93
+  value_2 -> Average: 1.23, Variance: 0.93, Standard Deviation: 0.97
+  value_3 -> Average: 0.64, Variance: 0.52, Standard Deviation: 0.72
+  value_4 -> Average: 0.05, Variance: 0.05, Standard Deviation: 0.22
+  value_5 -> Average: 1.28, Variance: 0.84, Standard Deviation: 0.92
+  value_6 -> Average: 0.29, Variance: 0.30, Standard Deviation: 0.55
+Group: 50대 남
+  value_1 -> Average: 0.38, Variance: 0.52, Standard Deviation: 0.72
+  value_2 -> Average: 0.90, Variance: 0.69, Standard Deviation: 0.83
+  value_3 -> Average: 1.04, Variance: 0.88, Standard Deviation: 0.94
+  value_4 -> Average: 0.50, Variance: 0.61, Standard Deviation: 0.78
+  value_5 -> Average: 0.76, Variance: 0.90, Standard Deviation: 0.95
+  value_6 -> Average: 1.22, Variance: 1.21, Standard Deviation: 1.10
+Group: 50대 여
+  value_1 -> Average: 0.47, Variance: 0.75, Standard Deviation: 0.87
+  value_2 -> Average: 1.21, Variance: 0.80, Standard Deviation: 0.90
+  value_3 -> Average: 0.74, Variance: 0.65, Standard Deviation: 0.81
+  value_4 -> Average: 0.14, Variance: 0.24, Standard Deviation: 0.49
+  value_5 -> Average: 1.08, Variance: 0.69, Standard Deviation: 0.83
+  value_6 -> Average: 0.50, Variance: 0.67, Standard Deviation: 0.82
+Group: 60대 남
+  value_1 -> Average: 0.09, Variance: 0.14, Standard Deviation: 0.38
+  value_2 -> Average: 1.64, Variance: 0.53, Standard Deviation: 0.73
+  value_3 -> Average: 1.21, Variance: 0.83, Standard Deviation: 0.91
+  value_4 -> Average: 0.52, Variance: 0.49, Standard Deviation: 0.70
+  value_5 -> Average: 0.39, Variance: 0.36, Standard Deviation: 0.60
+  value_6 -> Average: 1.64, Variance: 1.02, Standard Deviation: 1.01
+Group: 60대 여
+  value_1 -> Average: 0.76, Variance: 1.12, Standard Deviation: 1.06
+  value_2 -> Average: 0.90, Variance: 0.79, Standard Deviation: 0.89
+  value_3 -> Average: 1.18, Variance: 1.01, Standard Deviation: 1.00
+  value_4 -> Average: 0.13, Variance: 0.18, Standard Deviation: 0.42
+  value_5 -> Average: 0.82, Variance: 0.60, Standard Deviation: 0.77
+  value_6 -> Average: 0.87, Variance: 0.75, Standard Deviation: 0.86
+Group: 70대 남
+  value_1 -> Average: 0.20, Variance: 0.16, Standard Deviation: 0.40
+  value_2 -> Average: 1.80, Variance: 0.16, Standard Deviation: 0.40
+  value_3 -> Average: 1.00, Variance: 0.80, Standard Deviation: 0.89
+  value_4 -> Average: 0.60, Variance: 0.24, Standard Deviation: 0.49
+  value_5 -> Average: 0.00, Variance: 0.00, Standard Deviation: 0.00
+  value_6 -> Average: 1.40, Variance: 0.24, Standard Deviation: 0.49
+Group: 70대 여
+  value_1 -> Average: 0.42, Variance: 0.58, Standard Deviation: 0.76
+  value_2 -> Average: 1.08, Variance: 0.74, Standard Deviation: 0.86
+  value_3 -> Average: 0.67, Variance: 0.22, Standard Deviation: 0.47
+  value_4 -> Average: 0.42, Variance: 0.24, Standard Deviation: 0.49
+  value_5 -> Average: 0.25, Variance: 0.19, Standard Deviation: 0.43
+  value_6 -> Average: 1.33, Variance: 0.89, Standard Deviation: 0.94

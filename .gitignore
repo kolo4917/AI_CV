@@ -323,4 +323,6 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
+image-net 4g/
+
 # End of https://www.toptal.com/developers/gitignore/api/windows,pycharm,jupyternotebooks,python
